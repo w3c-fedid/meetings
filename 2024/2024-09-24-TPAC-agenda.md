@@ -1,7 +1,12 @@
-# FedID WG Session - TPAC 2024
+# REVISED FedID CG/WG Session - TPAC 2024
 
-## Tuesday, 24 September @ 14:00​–​16:00
+## Tuesday, 24 September @ 14:00​–​17:00
 Scribing doc [link](https://docs.google.com/document/d/1ISEjusnwvm5svndeNC9C5Smqk7LJXnMPgSwf7zb7bYM/edit?usp=sharing)
+
+was WG only: Tuesday, 24 September @ 14:00-16:00 PT
+
+now Joint CG/WG: Tuesday, 24 September @ 14:00-17:00 PT
+
 
 ## Draft Agenda - Tuesday
 * Administrivia
@@ -16,6 +21,21 @@ Scribing doc [link](https://docs.google.com/document/d/1ISEjusnwvm5svndeNC9C5Smq
 
 * [FedID CG/WG Process Mechanics](https://github.com/w3c-fedid/Administration/blob/main/proposals-CG-WG.md) (FYI)
 
+* Lightweight FedCM Issues
+   * Lightweight demo with Ben/Johann/Erica
+   * Is there a way to maintain UI hint freshness without falling back to heavyweight FedCM - [issue #40](https://github.com/fedidcg/LightweightFedCM/issues/40)
+   * Proposed next steps for this work item
+       * Stage 2
+       * Draft spec text
+* Proposal looking to advance to Stage 2
+      * Draft spec text
+* Proposal looking to advance to Stage 2
+   * 30 min: Button Mode – Yi ([slides](https://docs.google.com/presentation/d/1WRGI1BlPnqRwRs40w1j1nOEYBHwDAEaNEljcTReoOic/edit#slide=id.g300c7805003_0_1383)): 
+      * Issue 442: A not-yet logged in IDP has no route to success with this flow 
+   * 30 min: Custom Requests – Christian ([slides](https://docs.google.com/presentation/d/1WRGI1BlPnqRwRs40w1j1nOEYBHwDAEaNEljcTReoOic/edit#slide=id.g300c7805003_0_1387))
+      * Issue 555: Allow IdPs to continue and finish the request in a popup window
+      * Issue 556: Passing arbitrary parameters to the ID assertion endpoint
+      * Issue 559: Allow RPs to selectively request attributes of the user’s profile
 * Normative Specifications
    * FedCM Proposals looking to advance to Stage 2 (cont'd)
       * Multiple IDPs - Nicolás ([slides](https://docs.google.com/presentation/d/1WRGI1BlPnqRwRs40w1j1nOEYBHwDAEaNEljcTReoOic/edit#slide=id.g300c7805003_0_1391)) - see [issue 319](https://github.com/w3c-fedid/FedCM/issues/319)
