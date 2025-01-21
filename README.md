@@ -23,4 +23,4 @@ The structure of the repo is as follows:
 
 ## Code of Conduct
 
-As a W3C Community Group, all work and communication within the FedID CG is covered by the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/).
+As a W3C Working Group, all work and communication within the FedID WG is covered by the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/).
