@@ -1,8 +1,8 @@
 # Federated Identity Working Group Meetings
 
-This repository contains agendas, minutes, and other materials from meetings of the [FedID Working Group](https://www.w3.org/groups/wg/fedid/).
+This repository contains agendas, minutes, and other materials from meetings of the [FedID Working Group](https://www.w3.org/groups/wg/fedid/). 
 
-Logistics, agendas, and minutes for all meetings are in our GitHub meetings repository. We meet in plenary once a month; we also meet jointly with the [Federated Identity Community Group](https://www.w3.org/groups/cg/fed-id). We occasionally have ad-hoc calls on specific topics and expect to meet in person at the annual W3C TPAC.
+Logistics, agendas, and minutes for all meetings are in our GitHub meetings repository. We meet in plenary once a month; we also meet jointly with the [Federated Identity Community Group](https://www.w3.org/groups/cg/fed-id). Minutes from the FedID CG meetings may be found in [the CG minutes repository](https://github.com/fedidcg/meetings). We occasionally have ad-hoc calls on specific topics and expect to meet in person at the annual W3C TPAC.
 
 The scheduling and logistics of ad hoc calls may vary depending on the topic and expected attendees. Agendas and minutes for such meetings are posted in the same place as our regularly-scheduled plenary calls.
 
