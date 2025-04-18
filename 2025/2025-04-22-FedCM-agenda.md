@@ -27,6 +27,8 @@ The FedID WG call will be held at 15:00 UTC:
      * [Working Group Membership](https://www.w3.org/groups/wg/fedid/)
      * [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/)
 
+* Ecosystem Updates (5 minutes)
+   * IdP/RP implementations
      
 * FedCM issues
    * [Why must SameSite=none? #587](https://github.com/w3c-fedid/FedCM/issues/587)
