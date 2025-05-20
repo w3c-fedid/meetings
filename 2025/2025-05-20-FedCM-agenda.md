@@ -30,6 +30,9 @@ The FedID WG call will be held at 15:00 UTC:
 * Ecosystem Updates (5 minutes)
    * IdP/RP implementations
      
+* Lightweight FedCM
+   * [approved_clients in Accounts Push #61](https://github.com/fedidcg/LightweightFedCM/issues/61)
+
 * FedCM issues
    * [Support showing iframe origins in the UI, when they are third-party #725](https://github.com/w3c-fedid/FedCM/issues/725)
    * [CR Blocker List](https://github.com/w3c-fedid/FedCM/wiki/Status-of-FPWD%E2%80%90identified-Issues-(Consensus-Blockers-for-CR))
