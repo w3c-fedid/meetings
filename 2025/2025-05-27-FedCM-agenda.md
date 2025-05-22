@@ -26,6 +26,9 @@ The FedID WG call will be held at 15:00 UTC:
   * Reminders: 
      * [Working Group Membership](https://www.w3.org/groups/wg/fedid/), [Community Group Membership](https://www.w3.org/community/fed-id/)
      * [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/)
+  * Upcoming meeting schedule
+     * summer meetings
+     * meeting during IETF 123
 
 * Ecosystem Updates (15 minutes)
    * IdP/RP implementations
