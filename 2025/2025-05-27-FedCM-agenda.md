@@ -37,6 +37,7 @@ The FedID WG call will be held at 15:00 UTC:
 
 * FedCM issues
    * [globalObjects should be the top level window, rather than the cross site iframe when Permissions Policy is used #729](https://github.com/w3c-fedid/FedCM/issues/729)
+   * [Add API to show error messages from failed token fetches #498](https://github.com/w3c-fedid/FedCM/pull/498)
    * [CR Blocker List](https://github.com/w3c-fedid/FedCM/wiki/Status-of-FPWD%E2%80%90identified-Issues-(Consensus-Blockers-for-CR)) - updated
 
 * Any Other Business (AOB)
