@@ -37,7 +37,7 @@ The FedID WG DC API Series B call will be held at 11:00 UTC:
    * [Fix links to request field to use the new format in the register inclusion criteria #235](https://github.com/w3c-fedid/digital-credentials/pull/235)
    * [Add isProtocolSupportedByClient static method #221](https://github.com/w3c-fedid/digital-credentials/pull/221) 
 
-   * DC API Issues (10 minutes each)
+* DC API Issues (10 minutes each)
    * [\[spec\] write privacy considerations #183](https://github.com/w3c-fedid/digital-credentials/issues/183)
    * [Add isProtocolSupportedByClient static method #219](https://github.com/w3c-fedid/digital-credentials/issues/219)
 
