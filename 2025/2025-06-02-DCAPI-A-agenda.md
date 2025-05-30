@@ -34,6 +34,8 @@ The FedID WG call will be held at 16:00 UTC:
      
 * DC API Issues (30 minutes)
    * [\[spec\] write privacy considerations #183](https://github.com/w3c-fedid/digital-credentials/issues/183)
+      * [issues tagged privacy-considerations](https://github.com/w3c-fedid/digital-credentials/issues?q=state%3Aopen%20label%3A%22privacy-considerations%22)
+      * [Privacy Considerations: Add initial Introduction, Spectrum of Privacy sections #251](https://github.com/w3c-fedid/digital-credentials/pull/251)
 
 
 * Any Other Business (AOB)
