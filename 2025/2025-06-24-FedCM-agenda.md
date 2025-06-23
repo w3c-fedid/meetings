@@ -20,6 +20,7 @@ The FedID WG call will be held at 15:00 UTC:
   * Meeting schedule
      * FedCM-related calls on 1 and 15 July are cancelled
      * Full WG meeting proposed during [IETF 123](https://datatracker.ietf.org/meeting/123/agenda) Tuesday, 22 July, 11:30 - 13:30 CEST
+     * Request to restart Pacific-friendly calls
   
 * Ecosystem Updates (5 minutes)
 
