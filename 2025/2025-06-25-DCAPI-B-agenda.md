@@ -17,7 +17,7 @@ The FedID WG DC API Series B call will be held at 11:00 UTC:
       * [Working Group Membership](https://www.w3.org/groups/wg/fedid/participants/)
       * [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/20240318/)
    * Meeting schedule
-      * DC API-related calls on 30 June (Series A) and 14 July (Series A)are cancelled
+      * DC API-related calls on 30 June (Series A) and 14 July (Series A) are cancelled
       * Full WG meeting proposed during [IETF 123](https://datatracker.ietf.org/meeting/123/agenda) Tuesday, 22 July, 11:30 - 13:30 CEST
 
 * Ecosystem Updates (5 minutes)
