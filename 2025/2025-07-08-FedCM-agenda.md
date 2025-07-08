@@ -18,7 +18,7 @@ The FedID WG call will be held at 15:00 UTC:
      * [Working Group Membership](https://www.w3.org/groups/wg/fedid/), [Community Group Membership](https://www.w3.org/community/fed-id/)
      * [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/)
   * Meeting schedule
-     * FedCM-related calls on 15 July is cancelled
+     * FedCM-related call on 15 July is cancelled
      * Full WG meeting proposed during [IETF 123](https://datatracker.ietf.org/meeting/123/agenda) Tuesday, 22 July, 11:30 - 13:30 CEST, please agenda+ topics 
 
 * Ecosystem Updates (5 minutes)
