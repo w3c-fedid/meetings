@@ -2,7 +2,7 @@
 
 ## Logistics
 
-The FedID WG DC API Series B call will be held at 11:00 UTC:
+The FedID WG DC API Series B call will be held at 20:00 UTC:
 
 * We are using Google Meet for the meeting.
     * Please log in to see the [W3C FedID WG Events Calendar](https://www.w3.org/groups/wg/fedid/calendar/) for dial-in details. 
