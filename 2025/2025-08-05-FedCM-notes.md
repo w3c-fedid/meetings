@@ -104,3 +104,4 @@ Tim: Around TPAC? time he’s going to create a group around authentication on t
 * Mike Jones (Self-Issued Consulting)  
 * Nicolás Peña Moreno (Google Chrome)  
 * Christian Biesinger (Google Chrome)
+* Bjorn Hjelm (Yubico)
