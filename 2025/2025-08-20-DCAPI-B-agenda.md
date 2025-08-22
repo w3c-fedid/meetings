@@ -21,14 +21,15 @@ The FedID WG DC API Series B call will be held at 22:00 UTC:
      * Thursday, 13 November, @ 09:00-12:30 UTC+9
      * Friday, 14 November, @ 09:00-12:30 UTC+9
 
-* Ecosystem Updates (5 minutes)
+* Ecosystem Updates (5 minutes)  
 
-* DC API Issues, PRs
-    * [require in-context in-content explanation and an element for user-initiated presentation #208](https://github.com/w3c-fedid/digital-credentials/issues/208)
-    * [enumerated values for purpose, sharing and retention in API method #209](https://github.com/w3c-fedid/digital-credentials/issues/209)
-    * [Figure out a system for displaying contributors in the spec #311](https://github.com/w3c-fedid/digital-credentials/issues/311)
-    * [Editorial: make digital wallets out of scope #338](https://github.com/w3c-fedid/digital-credentials/pull/338)
-    * [Define Coordinator and Client #306](https://github.com/w3c-fedid/digital-credentials/pull/306)
-    * [Add request validation #156](https://github.com/w3c-fedid/digital-credentials/pull/156)
+* DC API Issues, PRs  
+  * [require in-context in-content explanation and an element for user-initiated presentation \#208](https://github.com/w3c-fedid/digital-credentials/issues/208)  
+  * [enumerated values for purpose, sharing and retention in API method \#209](https://github.com/w3c-fedid/digital-credentials/issues/209)  
+  * [Figure out a system for displaying contributors in the spec \#311](https://github.com/w3c-fedid/digital-credentials/issues/311)  
+  * [Editorial: make digital wallets out of scope \#338](https://github.com/w3c-fedid/digital-credentials/pull/338)  
+  * [Define Coordinator and Client \#306](https://github.com/w3c-fedid/digital-credentials/pull/306)  
+  * [Add request validation \#156](https://github.com/w3c-fedid/digital-credentials/pull/156)  
+
       
 * Any Other Business (AOB)
