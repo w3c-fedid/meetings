@@ -26,7 +26,7 @@ The FedID WG call will be held at 16:00 UTC.
      
 
 * DC API Issues & PRs (40 minutes)
-[Editorial: make digital wallets out of scope #338](https://github.com/w3c-fedid/digital-credentials/pull/338)
+    * [Editorial: make digital wallets out of scope #338](https://github.com/w3c-fedid/digital-credentials/pull/338)
     * [Define Coordinator and Client #306](https://github.com/w3c-fedid/digital-credentials/pull/306)
     * [Add request validation #156](https://github.com/w3c-fedid/digital-credentials/pull/156)
     * [Proposal to Add Comprehensive Testing Support for the Digital Credentials API #357](https://github.com/w3c-fedid/digital-credentials/issues/357)
