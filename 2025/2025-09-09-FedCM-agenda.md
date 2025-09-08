@@ -28,5 +28,6 @@ The FedID WG call will be held at 15:00 UTC.
 * Issues & PRs
   * [Consider forcing accounts push on registered IDPs #24](https://github.com/w3c-fedid/idp-registration/issues/24)
   * [Add multi IDP on active mode #5](https://github.com/w3c-fedid/multi-idp/issues/5)
+  * [Support chained authentication flows before reducing heuristics and classifications/lists in navigational tracking mitigations #618](https://github.com/w3c-fedid/FedCM/issues/618)
   
 * Any Other Business (AOB)
