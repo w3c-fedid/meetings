@@ -42,7 +42,7 @@ Charter: [https://www.w3.org/2025/02/wg-fedid.html](https://www.w3.org/2025/02/w
 
 ## Issues & PRs
 
-* [Consider forcing accounts push on registered IDPs \#24](https://github.com/w3c-fedid/idp-registration/issues/24)  
+### [Consider forcing accounts push on registered IDPs \#24](https://github.com/w3c-fedid/idp-registration/issues/24)  
   * Nicolás:  
     * Making progress on (IdP) registration and showing permission or not. Now I want to surface the idea of only allowing registration to work with accounts push. IdP tells the user-agent in advance which accounts the user is logged into, signing status header, expiration, etc. Allows building the FedCM API without having to do (as many) fetches. Depends on IdP Type, which protocol the IdP and RP supports.  
     * Has anybody tried registration, and any comments or concerns? Improved privacy and performance (main gains)  
@@ -122,7 +122,7 @@ Charter: [https://www.w3.org/2025/02/wg-fedid.html](https://www.w3.org/2025/02/w
     * That does happen through the standards process.  
   * Emelia:  
     * More centralised point, to say, simplify the OAuth flow using FedCM go here to find out more (PS, did not catch the end).  
-* [Add multi IDP on active mode \#5](https://github.com/w3c-fedid/multi-idp/issues/5)  
+### [Add multi IDP on active mode \#5](https://github.com/w3c-fedid/multi-idp/issues/5)  
   * Nicolás:  
     * Propose Multi-IdP issue be closed in terms of CR blockers.   
     * This has been implemented for passive mode. No plans to add this for active mode (user gesture needed). No demand for it. UX questions around what that would look like.  
@@ -141,7 +141,7 @@ Charter: [https://www.w3.org/2025/02/wg-fedid.html](https://www.w3.org/2025/02/w
   * Wendy:  
     * Will add a note to issue \#2 with a proposal to close.   
     * Close at next meeting if no objections  
-* [Support chained authentication flows before reducing heuristics and classifications/lists in navigational tracking mitigations \#618](https://github.com/w3c-fedid/FedCM/issues/618)  
+### [Support chained authentication flows before reducing heuristics and classifications/lists in navigational tracking mitigations \#618](https://github.com/w3c-fedid/FedCM/issues/618)  
   * Sam:  
     * Issue discussed last week. Did I capture the discussion?  
     * Wanted to capture; this is a use case that FedCM could not satisfy.  
