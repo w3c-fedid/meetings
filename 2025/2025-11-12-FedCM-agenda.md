@@ -14,7 +14,7 @@ See the [W3C TPAC Calendar for connection information](https://www.w3.org/events
 
 * Implementer’s report
    * Shopify (Joel Antoci) - 30 minutes
-   * Axel Springer / NetID / Ory / GMX / / Web.De - 30 mins
+   * Axel Springer - 30 mins
        * How we are planning to support Android Apps IdPs (e.g. gmx.de and web.de are email clients that are native apps rather than web apps)
    * Microsoft Edge Browser / Microsoft IdP: Enterprise consent, workforce browser profiles, and other use cases (Emily, Suresh) - 45 minutes
    * Google Chrome Browser / Google IdP (Irene Chang, Nick Watson - OAuth) - 60 minutes
