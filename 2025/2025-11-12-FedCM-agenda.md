@@ -22,6 +22,6 @@ See the [W3C TPAC Calendar for connection information](https://www.w3.org/events
       * Unification
       * FLUX: unifying passwords/passkeys/federation for returning users: https://github.com/w3ctag/design-reviews/issues/1092 
       * Passkey Creation API + Verified Emails: https://github.com/w3c/webauthn/wiki/Explainer:-WebAuthn-requestUserInfo , https://github.com/WICG/email-verification-protocol 
-   * Intrusion: How Chrome is dealing with Intrusion with quieter UIs (omnibox and ML models)
-   * Interception (deploying FedCM by changing IdPs but not RPs for OAuth redirect flows)
-   * An early discussion on how we’ve been exploring how FedCM can assist with Agentic Browsers
+      * Intrusion: How Chrome is dealing with Intrusion with quieter UIs (omnibox and ML models)
+      * Interception (deploying FedCM by changing IdPs but not RPs for OAuth redirect flows)
+      * An early discussion on how we’ve been exploring how FedCM can assist with Agentic Browsers
