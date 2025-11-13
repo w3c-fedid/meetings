@@ -34,7 +34,7 @@
 
 - ## Shopify
 
-  - Joel  
+  - Joel - [Slides](https://github.com/w3c-fedid/meetings/blob/main/2025/FedCM-Shopify-TPAC2025.pptx)
     - Identity team, Shopify  
     - Use of FedCM   
     - How we think it is useful for small/medium sized business  
