@@ -12,7 +12,7 @@ See the [W3C TPAC Calendar for connection information](https://www.w3.org/events
      * [Working Group Membership](https://www.w3.org/groups/wg/fedid/)
      * [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/)
 
-* Security Considerations (Simone) - 50 minutes 
+* [Security Considerations](https://docs.google.com/document/d/1BpBBiv7GgkGi1_Y7NvyD3Mkalj0g857Qw-aan3NqYwU/edit?tab=t.0) (Simone) - 50 minutes 
 * [Registry](https://github.com/w3c-fedid/digital-credentials/issues/396) (all) - 50 minutes
 * Privacy Considerations (any changes based on Registry decisions) - 20 minutes
 * [Wallet Selection Binding](https://github.com/w3c-fedid/digital-credentials/issues/382) (Lee) - 20 minutes
