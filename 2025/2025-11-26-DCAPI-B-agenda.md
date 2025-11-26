@@ -2,7 +2,7 @@
 
 ## Logistics
 
-The FedID WG DC API Series B call will be held at 00:00 UTC, 27 November 2025.
+The FedID WG DC API Series B call will be held at 23:00 UTC, 26 November 2025.
 
 * We are using Google Meet for the meeting.
     * Please log in to see the [W3C FedID WG Events Calendar](https://www.w3.org/groups/wg/fedid/calendar/) for dial-in details. 
@@ -25,3 +25,4 @@ The FedID WG DC API Series B call will be held at 00:00 UTC, 27 November 2025.
    * [Define Digital Wallet #386](https://github.com/w3c-fedid/digital-credentials/pull/386)
  
 * Any Other Business (AOB)
+   * [Security Considerations](https://docs.google.com/document/d/1BpBBiv7GgkGi1_Y7NvyD3Mkalj0g857Qw-aan3NqYwU/edit?tab=t.lgu8jgz2n99n) 
