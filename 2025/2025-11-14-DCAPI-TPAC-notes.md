@@ -1,6 +1,6 @@
-# **W3C TPAC 2025 \- Federated Identity WG/CG \- DC API**
+# W3C TPAC 2025 \- Federated Identity WG/CG \- DC API
 
-## **Friday, 14 November, @ 09:00–12:30 UTC+9 — Floor 4 \- 401**
+## Friday, 14 November, @ 09:00–12:30 UTC+9 — Floor 4 \- 401
 
 See the [W3C TPAC Calendar for connection information](https://www.w3.org/events/meetings/72ac91c8-aede-4efa-8ab3-827eba494cb9/)
 
