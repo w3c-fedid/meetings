@@ -23,7 +23,9 @@ The FedID WG call will be held at 16:00 UTC.
      
 
 * DC API Issues & PRs (40 minutes)
+   * [Canonical test objects for OpenID4VP and Openid4VCI #433[(https://github.com/w3c-fedid/digital-credentials/issues/433)
    * [Security Considerations PRs](https://github.com/w3c-fedid/digital-credentials/pulls?q=is%3Apr+is%3Aopen+label%3Asecurity-considerations)
-   * Registry PR (TBA)
+   * [Introduce "active promise" concept for request coordinator. #417](https://github.com/w3c-fedid/digital-credentials/pull/417)
+   * [Registry PR](https://github.com/w3c-fedid/digital-credentials/pull/401)
 
 * Any Other Business (AOB)
