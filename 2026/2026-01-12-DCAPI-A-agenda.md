@@ -20,7 +20,9 @@ The FedID WG call will be held at 16:00 UTC.
  
 
 * Ecosystem Updates (10 minutes)
-     
+
+* FedCM 
+  * [idp-registration](https://github.com/w3c-fedid/idp-registration)
 
 * DC API Issues & PRs (40 minutes)
    * [Canonical test objects for OpenID4VP and Openid4VCI #433](https://github.com/w3c-fedid/digital-credentials/issues/433) 
