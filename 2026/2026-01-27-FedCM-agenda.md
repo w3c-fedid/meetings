@@ -20,8 +20,10 @@ The FedID WG call will be held at 15:00 UTC.
      * [FedID CG/WG process](https://github.com/w3c-fedid/Administration/blob/main/proposals-CG-WG.md)
 
 * Ecosystem Updates (5 minutes)
+* Issues & PRs (15 minutes)
+   * [FedCM Service Worker Interception #802](https://github.com/w3c-fedid/FedCM/pull/802)
 
-* Proposals for new Stage 1 items
+* Proposals for new Stage 1 items (40 minutes)
    * [Navigation Interception API](https://github.com/w3c-fedid/FedCM/blob/main/explorations/drafts/interception.md)
    * [FedCM for Android IdPs](https://github.com/samuelgoto/proposal-android-idps)
    * [Agentic Login Toolkit](https://github.com/samuelgoto/agentic-login-toolkit)
