@@ -21,7 +21,7 @@ The FedID WG call will be held at 16:00 UTC.
 * Ecosystem Updates (5 minutes)
 
 * Outstanding Privacy/Security issues (15 minutes)
-  * How to reframe the following in the absense of a registry
+  * How to reframe the following in the absence of a registry
      * [privacy review for registry inclusion #226](https://github.com/w3c-fedid/digital-credentials/issues/226)
      * [Protocol registry: Reviewing is not sufficient #255](https://github.com/w3c-fedid/digital-credentials/issues/255)
 
