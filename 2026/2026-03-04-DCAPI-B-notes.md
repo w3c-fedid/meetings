@@ -42,7 +42,7 @@ Charter: [https://www.w3.org/2025/02/wg-fedid.html](https://www.w3.org/2025/02/w
 
 ## DC API PRs and Issues
 
-* [Add "Abort the credential request" algorithm \#462](https://github.com/w3c-fedid/digital-credentials/pull/462)  
+### [Add "Abort the credential request" algorithm \#462](https://github.com/w3c-fedid/digital-credentials/pull/462)  
   * Marcos: Something triggers aborting a credential request, e.g., an iframe triggers request but context goes away. What should happen? This algo makes the credential sheet go away, and resets the state machine. Presentations will also use it.   
   * Lee: On Android, when you call, and the UI pops up, the browser can’t cancel the UI; only the user can. We don’t like the apps being able to flash a screen and then cancel it. We could have it not be continuous. It’s not just our UI; the wallet controls one too, and you’re limited in your ability to cancel.   
   * Helen: Chrome might be doing something fancy. We don’t usually support the app cancelling once the user has seen something.   
@@ -57,7 +57,7 @@ Charter: [https://www.w3.org/2025/02/wg-fedid.html](https://www.w3.org/2025/02/w
   * Wendy: Not quite ready to merge, but almost?  
   * Marcos: I’ll discuss with Mohamed tonight… On re-read, I think it might be OK.  
   * Wendy: OK to merge when Marcos and Mohamed agree.  
-* [Define "prepare credential requests" algorithm \#420](https://github.com/w3c-fedid/digital-credentials/pull/420)  
+### [Define "prepare credential requests" algorithm \#420](https://github.com/w3c-fedid/digital-credentials/pull/420)  
   *  Marcos: Gotten quite a bit of review. Thanks John also. Latest comment from Tim re validation. John had proposed some additional clarifications. Tim asked for more discussion; I created [Issue 472](https://github.com/w3c-fedid/digital-credentials/pull/472).   
   * Lee: If a browser is going to parse further and reject based on additional criteria beyond what’s in OpenID4vc or mDocs, I think that should be in the spec. Or we should take it back to OpenID, ISO.  
   * Marcos: This is to say “here’s the point at which you apply constraints” but not defining what they are.  
@@ -80,9 +80,9 @@ Charter: [https://www.w3.org/2025/02/wg-fedid.html](https://www.w3.org/2025/02/w
   * Lee: I’d be happy to remove examples.  
   * John: If the carve out is there, I’m happy.  
   * Marcos: The rest of the PR is good to go; waiting for Tim to give another review. We have this issue (\#[472](https://github.com/w3c-fedid/digital-credentials/pull/472)) pulled out separately.  
-* [Addressing Request Tampering \#426](https://github.com/w3c-fedid/digital-credentials/pull/426)  
+### [Addressing Request Tampering \#426](https://github.com/w3c-fedid/digital-credentials/pull/426)  
   *  Marcos: I’ve been working with Simone and Mohamed. Trying to get considerations and their mitigations piece by piece. Would welcome review from others.  
-* [Wallet Selection Binding during Issuance \#382](https://github.com/w3c-fedid/digital-credentials/issues/382)  
+### [Wallet Selection Binding during Issuance \#382](https://github.com/w3c-fedid/digital-credentials/issues/382)  
   *  Lee: this is getting much more critical: issuers saying they won’t use the API until we have it. Last time we talked, we agreed option 3 was preferred. See if that’s doable on iOS. More recently, option 4 is also looking attractive.   
   * … For the issuance flow, you’re getting a credential, getting “save to wallet”. The issuance protocol can contain a token, access token you’ll exchange for the credential (like a bearer token). Normally you’d call create, pass the token in, OS will give a selector asking which wallet, OS will hand the token to the wallet to say create the credential. If the token goes to a bad wallet, that wallet gets the cred. Most issuers have wallet attestation. They won’t issue creds to non-trusted, non-attested wallets, e.g. European issuer. Say the user has installed a bad wallet. …  
   * Ted: I’m involved in the VC and other groups, where there isn’t any binding that happens at issuance. The content of the credential can include something like authorized presenter, and how that can be confirmed, e.g., biometric. The credential itself is just a sequence of bytes.  
