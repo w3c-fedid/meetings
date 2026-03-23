@@ -24,6 +24,7 @@ The FedID WG call will be held at 15:00 UTC.
 
 * Discussion (45 minutes)
    * [Enabling IDP Interception in FedCM Request PR #815](https://github.com/w3c-fedid/FedCM/pull/815/changes)
+   * [Cross-device/System-level FedCM Flows? #817](https://github.com/w3c-fedid/FedCM/issues/817)
    * Agentic Toolkit Update
       * [IdP-Initiated Proposal](https://github.com/fedidcg/idp-initiated)
       * [Federated Login for Agentic AI](https://github.com/samuelgoto/proposal-potentially-approved-sites)
