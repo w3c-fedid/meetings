@@ -221,6 +221,10 @@ Emelia:
 * Share link to GitHub repo with client\_id on it: [https://github.com/samuelgoto/proposal-potentially-approved-sites](https://github.com/samuelgoto/proposal-potentially-approved-sites)  
 * On the topic of Agentic access, the IETF is also quite interested in this, with Cloudflare leading some of that work: [https://www.ietf.org/blog/agentic-ai-standards/](https://www.ietf.org/blog/agentic-ai-standards/) 
 
+Wendy:
+
+* Is there interest in the group in continuing discussion? [no objection]
+  
 #### [IdP-Initiated Proposal](https://github.com/fedidcg/idp-initiated)
 
 * 
