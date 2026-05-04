@@ -22,8 +22,8 @@ The FedID WG call will be held at 15:00 UTC.
 * Ecosystem Updates (10 minutes)
 
 * Discussion (30 minutes)
-   * [Allow IDPs to delegate well-known file hosting via DNS TXT record#821](https://github.com/w3c-fedid/FedCM/pull/821)
-   * 
+   * [Allow IDPs to delegate well-known file hosting via DNS TXT record #821](https://github.com/w3c-fedid/FedCM/pull/821)
+   * [Enabling IDP Interception in FedCM Request #815](https://github.com/w3c-fedid/FedCM/pull/815)
 
 
 * Any Other Business (AOB)
