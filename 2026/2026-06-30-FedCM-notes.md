@@ -62,7 +62,7 @@
   * Suresh, can you represent Will?  
 * Suresh:  
   * I’ll try to summarise (827) and share with the group.  
-  * Are we targeting next year for CR?
+
 
 ### [Enabling IDP Interception in FedCM Request \#815](https://github.com/w3c-fedid/FedCM/pull/815)
 
@@ -113,7 +113,7 @@
   * Did you confirm that Microsoft IDP is OK with the approach?  
 * Suresh  
   * Had a formal discussion with Microsoft IdP.  
-  * \[Can we link the doc here pls\]
+  * <https://github.com/w3c-fedid/identity-handler/blob/main/identity-handler-explainer.md>
 
 ## 
 
