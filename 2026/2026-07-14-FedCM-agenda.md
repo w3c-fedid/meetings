@@ -19,8 +19,10 @@ The FedID WG call will be held at 15:00 UTC.
      * [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/)
      * [FedID CG/WG process](https://github.com/w3c-fedid/Administration/blob/main/proposals-CG-WG.md)
    * Next call - 28 July 2026 - FedCM and the Meta IdP deployment
+ 
+* Ecosystem Update (10 minutes)
 
-* Discussion (50 minutes)
+* Discussion (40 minutes)
    * [FedCM facilitates vendor lock-in #827](https://github.com/w3c-fedid/FedCM/issues/827) & [Enabling IDP Interception in FedCM Request #815](https://github.com/w3c-fedid/FedCM/pull/815)
    * [Defining "Core"](https://github.com/w3c-fedid/FedCM/issues?q=is%3Aissue%20state%3Aopen%20label%3Aagenda%2B%20label%3A%22needs%20resolution%22)
 
