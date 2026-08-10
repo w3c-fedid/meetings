@@ -52,7 +52,7 @@ Wendy: Any further discussion there? Hearing none... Moving forward with the age
 
 ### [Add requestOrigin attribute to DigitalCredential \#567](https://github.com/w3c-fedid/digital-credentials/pull/567)
 
-	Marcos: Pending 520, once we have response encryption, the last piece of information the RP might want to know is what origin was used for the crypto. It’s a bit useless, because they already know it if they made the request, but it’s included for completeness.   
+Marcos: Pending 520, once we have response encryption, the last piece of information the RP might want to know is what origin was used for the crypto. It’s a bit useless, because they already know it if they made the request, but it’s included for completeness.   
 Matt: Pretty major difference, because no integrity on this value. What’s the anticipated use case? How would a verifier use it?   
 Marcos: It’s not forgeable, because a read-only attribute on a returned object. It’s hard for an attacker to change.  
 Matt: But not impossible.  
