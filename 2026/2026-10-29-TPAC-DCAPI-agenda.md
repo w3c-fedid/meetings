@@ -1,4 +1,4 @@
-# W3C TPAC 2025 - Federated Identity WG/CG - FedCM
+# W3C TPAC 2026 - Federated Identity WG/CG - DC API
 
 ## Thursday, 29 October, @ 14:00–16:45 UTC, Ground Floor - Munster Suite 
 
