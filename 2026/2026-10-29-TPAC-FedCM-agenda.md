@@ -15,7 +15,8 @@ See the [W3C TPAC Calendar for connection information](https://www.w3.org/events
 * FedCM today: Core, dependencies, and extensions (Sam Goto, 09:10–09:40)
 * Deployment and implementation roundtable, Browser implementations and interoperability (open discussion, 09:40–10:30)
 * Break (10:30–11:00)
-* FedCM spec editing, issue/PR review (spec editors, 11:00–12:20)
+* FedCM spec editing, issue/PR review (spec editors, 11:00–11:30)
+* Unifying mediated credentials: FedCM, DC and EVP (Sam Goto, Lee Campbell, Helen Qin, 11:30-12:20)
 * Wrap up, action items, next steps (chairs, 12:20–12:30)
 
 
