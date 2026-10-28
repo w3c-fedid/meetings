@@ -53,7 +53,7 @@
   * Sam: Have you looked at implementation and how hard this may be?   
   * Suresh: Looked at most of it. Open questions on registration is the thing left to determine the level of effort for registration.  
   * Sam: Might have to change the code that intercepts the call depending on registration.  
-  * Suresh: Going to get feedback from the Service Worker group. Going to make bite size seals (?) to push the code. There need to be new APIs to get the FedCM Service Worker pieces together.  
+  * Suresh: Going to get feedback from the Service Worker group. Going to make bite size CLs to push the code. There need to be new APIs to get the FedCM Service Worker pieces together.  
   * Sam: A few steps forward in implementation will give more feedback. Both on browser and IDP side. There is a lot you learn by building parts of the browser and having identity teams try the nascent flow.  
   * Nicolas: Thanks Suresh for putting up the explainer. Wondering if we've already made the decision on the questions in the issue that have been going with comments last week regarding the storage key for the Service Worker used with FedCM.  
   * Suresh: That’s what we were discussing of the two options: nonce and key. Nonce already exists in the storage key. If we go with a different member or a different key, it needs changes in the storage key spec. With the constraints, would prefer to go with nonce.  
