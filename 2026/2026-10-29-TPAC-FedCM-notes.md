@@ -17,7 +17,7 @@
 3. Deployment and implementation roundtable; browser implementations and interoperability (open discussion, 09:40–10:30)
 4. Break (10:30–11:00)
 5. FedCM spec editing, issue/PR review (spec editors, 11:00–11:30)
-6. Unifying mediated credentials: FedCM, Digital Credentials API and email verification (Sam Goto, Lee Campbell, Helen Qin, 11:30–12:20)
+6. [Unifying mediated credentials: FedCM, Digital Credentials API and email verification](https://github.com/w3c-fedid/meetings/blob/main/2026/Unifying%20mediated%20credentials_%20FedCM%2C%20DC%20and%20EVP.pdf) (Sam Goto, Lee Campbell, Helen Qin, 11:30–12:20)
 7. Wrap-up, actions and next steps (chairs, 12:20–12:30)
 
 **Agenda adjustment:** Following the break, the chairs used the time reserved for general specification editing to revisit the previous day's *FedCM Across Browsers: What Would It Take?* discussion. A line-by-line issue/PR review did not take place in the portion of the recording reviewed.
@@ -172,7 +172,7 @@ The chairs proposed to prepare a **written synthesis** of the previous day's dis
 
 ## 5. Unifying mediated credentials: FedCM, Digital Credentials API and email verification
 
-**Presenters:** Helen Qin, with Lee Campbell and Sam Goto. This was presented as a combination of a relatively concrete **platform-to-provider mediation proposal** and a less-developed **problem statement** about unifying application-facing credential APIs. The two parts should not be conflated.
+**Presenters:** Helen Qin, with Lee Campbell and Sam Goto. This was [presented](https://github.com/w3c-fedid/meetings/blob/main/2026/Unifying%20mediated%20credentials_%20FedCM%2C%20DC%20and%20EVP.pdf) as a combination of a relatively concrete **platform-to-provider mediation proposal** and a less-developed **problem statement** about unifying application-facing credential APIs. The two parts should not be conflated.
 
 ### 5.1 Immediate motivation: FedCM in Android native applications
 
