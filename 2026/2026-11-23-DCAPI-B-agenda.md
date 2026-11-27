@@ -1,5 +1,7 @@
 # FedID WG Agenda - DC API Series B - 23 November 2026
 
+*Note: Meeting cancelled due to lack of attendance*
+
 ## Logistics
 
 The FedID WG DC API Series B call will be held at 22:00 UTC, 23 November 2026.
